@@ -19,41 +19,31 @@ I enjoy turning ideas into functional, responsive, and user-friendly application
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
-- Java
-- C
-- C++
-- Python
-- JavaScript
-- TypeScript
-- PHP
-- SQL
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,javascript,typescript,php" />
+</p>
 
 ### Frontend
-- HTML5
-- CSS3
-- JavaScript
-- Angular
-- TypeScript
-- Responsive Web Design
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,angular" />
+</p>
 
 ### Backend & Database
-- PHP
-- PostgreSQL
-- MySQL
-- PL/pgSQL
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,postgresql,mysql" />
+</p>
 
 ### Tools
-- Git
-- GitHub
-- Visual Studio Code
-- IntelliJ IDEA
-- XAMPP
 
----
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+</p>
 ## 📌 Featured Projects
 
 ### 🌱 Nursery Management System
