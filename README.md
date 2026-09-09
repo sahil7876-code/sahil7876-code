@@ -1,85 +1,78 @@
-# Hi, I'm Sahil 👋
+# Hi, I'm Sahil Jadhav 👋
 
-### BCS Graduate | Frontend Developer | Software Developer
+**Software Developer | Frontend Developer**
 
-I'm a Computer Science graduate from **Abasaheb Garware College, Pune**, with a strong interest in software development, frontend engineering, and building practical web applications.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahiljadhav7876)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com/sahil7876-code)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sahiljadhav7876@gmail.com)
 
-I enjoy turning ideas into functional, responsive, and user-friendly applications. My current focus is improving my development skills, strengthening my problem-solving abilities, and preparing for software developer opportunities.
+## 👨‍💻 About Me
 
----
+Pursuing MCA with hands-on experience in web technologies and frontend development. Passionate about building practical web applications and looking forward to growing as a Software Developer.
 
-## 🚀 About Me
+## 🛠️ Skills and Technologies
 
-- 🎓 B.Sc. Computer Science graduate from Abasaheb Garware College, Pune
-- 💻 Interested in software development and frontend engineering
-- 🌱 Currently improving my skills in Angular, TypeScript, JavaScript, and backend technologies
-- 🛠️ Enjoy building real-world projects and learning through hands-on development
-- ⚽ Football, gym, swimming, and music enthusiast
-- 📍 Based in Pune, Maharashtra, India
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
+### Programming Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=databricks&logoColor=white)
 
-### Frontend
+### Frontend Technologies
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-### Backend & Database
+### Backend and Database
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PL/pgSQL](https://img.shields.io/badge/PL%2FpgSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)
 
-
-
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
 ### 🌱 Nursery Management System
 
-A responsive nursery management web application developed during my frontend internship.
+Developed responsive frontend features for a Nursery Management System using Angular and TypeScript.
 
-**Highlights:**
-- Customer-facing storefront
-- Product listing and product details
-- Search with dropdown suggestions
-- Category filtering
-- Shopping cart
-- Checkout and QR-code payment flow
-- Admin dashboard
-- Product, category, and employee management
-- Responsive design for mobile and desktop
+**Customer Features**
 
-**Technologies:** Angular, TypeScript, HTML, CSS, GitHub
+- Product listing, search suggestions, and category filtering
+- Product details, cart, and checkout pages
+- QR-code payment flow
+- Responsive storefront for mobile and desktop
 
----
+**Admin Features**
+
+- Dashboard layout and sidebar navigation
+- Product management
+- Category management
+- Employee and admin management
+
+**Technologies:** Angular · TypeScript · HTML · CSS
 
 ### 💰 Expense Tracker Website
 
-A web application for managing personal expenses and monitoring financial activity.
+A web application for managing personal expenses and tracking financial activity.
 
-**Features:**
+**Features**
+
 - User registration and login
 - Add and manage expense records
 - Expense analysis
@@ -87,46 +80,35 @@ A web application for managing personal expenses and monitoring financial activi
 - Financial goals
 - PostgreSQL database integration
 
-**Technologies:** HTML, CSS, PHP, PostgreSQL
-
----
+**Technologies:** PHP · PostgreSQL · HTML · CSS
 
 ## 💼 Internship Experience
 
-### Software Developer Intern — Frontend
+### Frontend Developer Intern
+
 **Chordz Technologies Pvt. Ltd.**
 
-Worked on the frontend of a Nursery Management System using Angular and TypeScript. Developed responsive customer and admin interfaces, implemented product-related features, and collaborated with the team through GitHub.
-
----
+- Developed responsive frontend features for a Nursery Management System using Angular and TypeScript.
 
 ## 📚 Currently Learning
 
-- Advanced Angular and TypeScript
+- Advanced Java
+- Python
 - Data Structures and Algorithms
-- Object-Oriented Programming
-- Database Management Systems
-- Full-stack web development
-- Software development best practices
 
----
+## ⚽ Interests
 
-## 🎯 My Goals
+Football · Swimming · Music
 
-- Become a skilled software developer
-- Build production-ready applications
-- Improve problem-solving and DSA skills
-- Contribute to meaningful projects
-- Continuously learn new technologies
+## 🎓 Education
 
----
+- Pursuing MCA — MES's IMCC
+- B.Sc. Computer Science — Abasaheb Garware College, Pune
 
-## 📫 Connect With Me
+## 📬 Contact
 
-- GitHub: https://github.com/sahil7876-code
-- LinkedIn: https://linkedin.com/in/sahiljadhav7876
-- Email: sahiljadhav7876@gmail.com
+- **Email:** [sahiljadhav7876@gmail.com](mailto:sahiljadhav7876@gmail.com)
+- **LinkedIn:** [linkedin.com/in/sahiljadhav7876](https://linkedin.com/in/sahiljadhav7876)
+- **GitHub:** [github.com/sahil7876-code](https://github.com/sahil7876-code)
 
----
-
-⭐ Feel free to explore my repositories and follow my journey as I continue learning and building.
+Thanks for visiting my profile!
