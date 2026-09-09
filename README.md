@@ -98,11 +98,6 @@ A web application for managing personal expenses and monitoring financial activi
 
 Worked on the frontend of a Nursery Management System using Angular and TypeScript. Developed responsive customer and admin interfaces, implemented product-related features, and collaborated with the team through GitHub.
 
-### Marine Consignment Tracking Intern
-**Charterhouse Pvt. Ltd.**
-
-Worked with marine consignment tracking, logistics records, operations coordination, and GPS fleet-tracking software.
-
 ---
 
 ## 📚 Currently Learning
