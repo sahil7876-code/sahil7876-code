@@ -57,6 +57,7 @@ I enjoy turning ideas into functional, responsive, and user-friendly application
 ## 📌 Featured Projects
 
 ### 🌱 Nursery Management System
+
 A responsive nursery management web application developed during my frontend internship.
 
 **Highlights:**
@@ -75,6 +76,7 @@ A responsive nursery management web application developed during my frontend int
 ---
 
 ### 💰 Expense Tracker Website
+
 A web application for managing personal expenses and monitoring financial activity.
 
 **Features:**
@@ -95,6 +97,11 @@ A web application for managing personal expenses and monitoring financial activi
 **Chordz Technologies Pvt. Ltd.**
 
 Worked on the frontend of a Nursery Management System using Angular and TypeScript. Developed responsive customer and admin interfaces, implemented product-related features, and collaborated with the team through GitHub.
+
+### Marine Consignment Tracking Intern
+**Charterhouse Pvt. Ltd.**
+
+Worked with marine consignment tracking, logistics records, operations coordination, and GPS fleet-tracking software.
 
 ---
 
