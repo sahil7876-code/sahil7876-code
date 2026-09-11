@@ -1,11 +1,5 @@
 # Hi, I'm Sahil Jadhav 👋
 
-**Software Developer | Frontend Developer**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahiljadhav7876)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com/sahil7876-code)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sahiljadhav7876@gmail.com)
-
 ## 👨‍💻 About Me
 
 Pursuing MCA with hands-on experience in web technologies and frontend development. Passionate about building practical web applications and looking forward to growing as a Software Developer.
