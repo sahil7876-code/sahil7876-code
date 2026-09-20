@@ -44,7 +44,6 @@ Pursuing MCA with hands-on experience in web technologies and frontend developme
   <img src="https://komarev.com/ghpvc/?username=sahil7876-code&style=for-the-badge&color=6A0DAD&label=PROFILE+VIEWS"/>
   &nbsp;
   <img src="https://img.shields.io/github/followers/sahil7876-code?style=for-the-badge&color=7D3C98&label=FOLLOWERS&logo=github"/>
-</p>
 
 ## 🚀 Featured Projects
 
