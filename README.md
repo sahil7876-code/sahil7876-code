@@ -39,6 +39,14 @@ Pursuing MCA with hands-on experience in web technologies and frontend developme
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)
 
+### Profile
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sahil7876-code&style=for-the-badge&color=6A0DAD&label=PROFILE+VIEWS"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/sahil7876-code?style=for-the-badge&color=7D3C98&label=FOLLOWERS&logo=github"/>
+</p>
+
 ## 🚀 Featured Projects
 
 ### 🌱 Nursery Management System
