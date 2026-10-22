@@ -89,12 +89,11 @@ A web application for managing personal expenses and tracking financial activity
   <img src="https://komarev.com/ghpvc/?username=sahil7876-code&style=for-the-badge&color=6A0DAD&label=PROFILE+VIEWS"/>
   &nbsp;
   <img src="https://img.shields.io/github/followers/sahil7876-code?style=for-the-badge&color=7D3C98&label=FOLLOWERS&logo=github"/>
+
 ### 📈 Contribution Graph:
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahil7876-code&theme=tokyo-night&hide_border=true" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahil7876-code&theme=tokyo-night&hide_border=true" />
 </p>
 
 ## 📚 Currently Learning
